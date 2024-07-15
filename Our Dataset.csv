@@ -1,0 +1,31 @@
+consumer_id,product_name,product_category,no.of_member_family,purchase_year,price,brand,existing_product_quantity,quantity_bfr_5_years,difference_betwn_last_5_year,income_dffrnce_in_last_5_years
+1,Refrigeretor,Kitchen,4,2019,24000,singer,3,2,1,10000
+2,Television,Electronics,5,2020,12000,singer,1,1,1,5000
+3,oven,kitchen,3,2015,15000,miyako,1,0,0,5000
+4,ac,home,3,2017,30000,walton,1,0,0,5000
+5,Refrigeretor,kitchen,4,2000,10000,hitachi,1,0,0,5000
+6,blender,Kitchen,3,2020,5000,miyako,2,0,0,7000
+7,Television,home,5,2018,30000,Transtec,1,0,0,4000
+8,vaccum cleaner,home,7,2019,15000,walton,1,0,1,5000
+9,oven,Kitchen,3,2020,14000,singer,1,0,1,7000
+10,Television,home,4,2021,22000,LG,2,1,1,10000
+11,Refrigeretor,Kitchen,3,2020,10000,walton,2,1,1,6000
+12,oven,Kitchen,5,2019,15000,hitachi,1,0,1,5000
+13,Television,home,4,2018,20000,minister,3,2,1,3000
+14,vaccum cleaner,Kitchen,2,2021,20000,Transtec,2,1,1,10000
+15,blender,home,9,2022,22000,LG,3,2,1,6000
+16,Refrigeretor,Kitchen,5,2023,25000,minister,1,0,1,8000
+17,ac,home,3,2021,50000,singer,1,1,0,9000
+18,Television,home,4,2020,35000,miyako,2,1,1,7000
+19,vaccum cleaner,home,6,2015,15000,minister,2,1,1,5000
+20,Television,home,2,2019,12000,singer,1,1,0,6000
+21,Refrigeretor,Kitchen,5,2016,25000,LG,2,1,1,10000
+22,blender,Kitchen,2,2015,5000,hitachi,1,1,0,15000
+23,ac,home,8,2014,65000,walton,3,1,2,15000
+24,Television,home,6,2007,35000,singer,1,1,0,12000
+25,blender,Kitchen,,2005,6000,walton,2,1,1,13000
+26,ac,home,6,2010,25000,LG,3,1,2,14000
+27,Refrigeretor,Kitchen,5,2012,45000,singer,4,1,3,15000
+28,Television,home,6,2015,12900,walton,2,1,1,10000
+29,vaccum cleaner,home,5,2020,20000,Transtec,3,1,2,12000
+30,ac,home,5,2021,105000,Gree,1,1,1,20000
